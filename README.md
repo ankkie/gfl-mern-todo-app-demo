@@ -35,4 +35,4 @@ To install and run the MERN Todo App, follow these steps:
 
 ## License
 
-This project uses the following license: [MIT License](<link_to_license>).
+This project uses the following license: [MIT License](LICENSE).
